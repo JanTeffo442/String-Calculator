@@ -33,4 +33,4 @@ class Calculator():
 
 if __name__ == '__main__':
     calculator = Calculator()
-    print(calculator.add('1'))
+    print(calculator.add('-1,*S[]2\n*3'))
